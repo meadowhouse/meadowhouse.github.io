@@ -11,6 +11,13 @@ layout: default
   <section class="style4 wrapper container">
     {{ content }}
   </section>
+  <section>
+    {% for image in site.static_files %}
+    {% if image.path contains page.title %}
+      <img src="{{ image.path }}" alt="">
+    {% endif %}
+    {% endfor %}
+  </section>
     
     <footer>
         {% if page.previous %}
