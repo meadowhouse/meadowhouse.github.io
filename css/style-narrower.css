@@ -16,7 +16,7 @@
 	}
 
 		header.special:before, header.special:after {
-			width: 40%;
+			width: 50%;
 		}
 
 		header.special h2 + p {

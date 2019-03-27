@@ -41,7 +41,7 @@
 		}
 
 			header.special:before, header.special:after {
-				width: 38%;
+				width: 50%;
 			}
 
 			header.special .icon {
