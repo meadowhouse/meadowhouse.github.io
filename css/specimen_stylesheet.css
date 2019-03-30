@@ -259,15 +259,15 @@ code {
  position: relative;
 }
 .arialbody{
-	font-family: Arial;
+	font-family: Playfair-Display;
 	position: relative;
 }
 .verdanabody{
-	font-family: Verdana;
+	font-family: Playfair-Display;
 	position: relative;
 }
 .georgiabody{
-	font-family: Georgia;
+	font-family: Playfair-Display;
 	position: relative;
 }
 
@@ -359,7 +359,7 @@ code {
 
 
 #glyphs h1 {
-	font-family: Arial, sans-serif;
+	font-family: Playfair-Display;
 }
 /* @end */
 
@@ -386,7 +386,7 @@ code {
 /* @end */
 
 #rendering h1 {
-	font-family: Arial, sans-serif;
+	font-family: Playfair-Display;
 }
 .render_table td {
 	font: 11px "Courier New", Courier, mono;
