@@ -1138,3 +1138,8 @@
 			background: #fec866;
 			border-color: #fec866;
 		}
+		@font-face {
+			font-family: "playfair-display";
+			src: url("{{ site.url }}/fonts/PlayfairDisplay-Bold.otf")
+		}
+		
