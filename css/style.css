@@ -1125,3 +1125,10 @@
 			display: inline-block;
 			width: 5em;
 		}
+		
+		#mainlogocoral {
+			margin: auto;
+			display: block;
+			width: 244px;
+			
+		}
