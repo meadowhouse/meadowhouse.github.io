@@ -865,10 +865,6 @@
 			}
 
 				#banner .inner header h2 {
-					border-bottom: solid 2px;
-					border-top: solid 2px;
-					font-size: 2.5em;
-					font-weight: 900;
 					letter-spacing: 0.2em;
 					margin: 0;
 					padding-left: 0.05em;
@@ -1139,5 +1135,16 @@
 		}
 		@font-face {
 			font-family: "playfair-display";
-			src: url("{{ site.url }}/fonts/PlayfairDisplay-Bold.otf")
+			src: url("{../fonts/PlayfairDisplay-Bold.otf")
 		}
+		@font-face {
+			font-family: "Sophia-Ronald-Lovely-Script-Font";
+			src: url("../fonts/Sophia-Ronald-Lovely-Script-Font/SophiaRonaldshort.otf")
+		}
+		.sophia {
+			font-family: Sophia-Ronald-Lovely-Script-Font;
+			font-size: -webkit-xxx-large;
+			font-weight: 100;
+		}
+
+	
