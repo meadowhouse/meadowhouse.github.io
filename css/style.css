@@ -564,7 +564,6 @@
 			input[type="reset"].special:hover,
 			.button.special:hover {
 				background: #fec866 !important;
-				opacity: .85;
 				border-color: #fec866 !important;
 			}
 
